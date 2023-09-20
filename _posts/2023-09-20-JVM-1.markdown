@@ -1,7 +1,8 @@
+---
 layout: post
 title: "深入理解java虚拟机-1"
-date: YYYY-MM-DD hh:mm:ss -0000
+date: 2023-09-20 21:02:00 +0800
 categories: JVM
-
+---
 
 todo
